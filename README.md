@@ -1,5 +1,7 @@
 ### Hello I'm Sunho!!!
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sunho Github!&fontSize=90" />
+
 <a href = "https://github.com/sunho0506"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/></a><img alt="Notion" src ="https://img.shields.io/badge/Notion-white.svg?&style=flat-square&logo=Notion&logoColor=black"/></a> <a href="mailto:dbstjsghsla@naver.com"><img src="https://img.shields.io/badge/dbstjsghsla@naver.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbstjsghsla@naver.com"/> </a>
 
 ### 🖥️ Skills
