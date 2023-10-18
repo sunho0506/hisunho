@@ -14,6 +14,8 @@
 
 <img  alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img  alt="Visual Studio Code" src ="https://img.shields.io/badge/VScode-007ACC.svg?&style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img  alt="MySQL" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> <img  alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunho0506&layout=compact&theme=radical)
+
 ### macOS
 
 <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/> <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> <img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
